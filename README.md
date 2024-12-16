@@ -17,16 +17,23 @@ A robust hand gesture recognition system built for AI and ML applications using 
 </ol>
 
 ## 🔧 How to Use
-Clone the repository
-``
+<ol>
+  <li>Clone the repository</li>
+  
+  ``
  git clone https://github.com/your-repo-name/hand-gesture-recognition.git  
 cd hand-gesture-recognition 
 ``
-Install Dependencies 
-``
+
+  <li>Install Dependencies </li>
+  
+  ``
 pip install -r requirements.txt  
 ``
-Launch the real-time recognition script:
-``
+  <li>Launch the real-time recognition script:</li>
+
+  ``
 python app.py 
 ``
+</ol>
+
