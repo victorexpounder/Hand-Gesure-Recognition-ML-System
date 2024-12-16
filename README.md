@@ -26,6 +26,7 @@ Install Dependencies
 ``
 pip install -r requirements.txt  
 ``
+
 Launch the real-time recognition script:
 ``
 python app.py 
